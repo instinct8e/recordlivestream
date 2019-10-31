@@ -1,8 +1,6 @@
 # recordlivestream
 
-This is used to racord any Live stream comming from the internet. 
-
-I am mostly using it to record from reddit /r/nflstreams.
+This is used to record any Live stream comming from the internet. 
 
 V1:
 1.Find stream
